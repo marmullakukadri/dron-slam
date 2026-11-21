@@ -1,7 +1,0 @@
-{
-    "cmake.sourceDirectory": "/Users/marmullakukadrigmail.com/drone-slam/src/drone_slam",
-    "python.analysis.diagnosticSeverityOverrides": {
-        "reportMissingImports": "none",
-        "reportMissingModuleSource": "none"
-    }
-}
